@@ -1,9 +1,13 @@
 ---
 title: "[Retrospective] 제목 (N주차 · K팀 · 이름)"
-date: YYYY-MM-DD HH:MM:SS +0900
+date: 2099-01-01 00:00:00 +0900
 categories: [Retrospective]
 tags: [키워드1, 키워드2]
 ---
+
+> **사용 방법**: 이 파일을 복사해 `_posts/YYYY-MM-DD-title.md` 로 저장하고,
+> `date:` 값을 실제 작성 날짜로 변경하세요. `_drafts/` 안에 있는 동안은
+> 프로덕션 빌드에서 자동 제외됩니다.
 
 ## TL;DR
 
