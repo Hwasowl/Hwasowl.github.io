@@ -30,9 +30,9 @@ comments:
   provider: giscus
   giscus:
     repo: Hwasowl/Hwasowl.github.io
-    repo_id:
+    repo_id: R_kgDOShZmcA
     category: Announcements
-    category_id:
+    category_id: DIC_kwDOShZmcM4C9Wdx
     mapping: pathname
     strict: 0
     input_position: bottom
